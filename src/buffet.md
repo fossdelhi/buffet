@@ -110,3 +110,13 @@
 # Shell Scripting
 
   - [Shell Scripting Tutorial](https://www.shellscript.sh/)
+
+# Competitive Programming Websites
+
+  - [CodeShef](https://www.codechef.com/)
+  - [HackerRank](https://www.hackerrank.com/dashboard)
+  - [HackerEarth](https://www.hackerearth.com/)
+  - [Coderbyte](https://www.coderbyte.com/)
+  - [CodeEval](https://www.codeeval.com/)
+  - [CodinGame](https://www.codingame.com/)
+  - [ProjectEuler](https://projecteuler.net/)
