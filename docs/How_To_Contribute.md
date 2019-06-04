@@ -23,14 +23,14 @@ git checkout -b my-branch
 ```
 
 ### Step 4:
-Go to file "CONTRIBUTORS.md" and add you name.
+Go to file [CONTRIBUTORS.md](https://github.com/fossdelhi/buffet/blob/master/docs/CONTRIBUTORS.md) and add you name.
 
 ### Step 5 :
 Commit and push your changes.
 
 ```
 git add .
-git commit -m "Add first commit"
+git commit -m "<your-message>"
 git push origin my-branch
 ```
 

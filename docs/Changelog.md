@@ -2,3 +2,6 @@
 
 - Add initial setup
 
+# Jun 04, 2019
+
+- Change layout of buffet.
