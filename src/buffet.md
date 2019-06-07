@@ -89,6 +89,8 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
 
     - **JavaScript**
         - [JavaScript with w3schools](https://www.w3schools.com/js/default.asp)
+        - [JavaScript by MDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
+        - [Superherojs](http://superherojs.com/)
 
          - **Angular**
             - [Angular Expo](https://angularexpo.com/)
@@ -175,8 +177,8 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
         - [Oracle](https://docs.oracle.com/en/database/oracle/oracle-database/19/index.html)
 
 - ### Artificial Intelligence
-    - Machine Learning
-    - Deep Learning
+    - [Machine Learning](https://www.coursera.org/learn/machine-learning)
+    - [Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 
 - ### IOS Development
     - [IOS](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
