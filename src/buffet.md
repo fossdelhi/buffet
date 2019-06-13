@@ -271,4 +271,4 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
     - [GSoC](https://summerofcode.withgoogle.com/)
     - [Season of Docs](https://developers.google.com/season-of-docs/)
     - [Outreachy](https://www.outreachy.org/)
-    - [BOSS](http://pennapps.com/)
+    - [BOSS](https://lab.codingblocks.com/boss)
