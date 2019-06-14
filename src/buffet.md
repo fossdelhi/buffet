@@ -91,6 +91,9 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
         - [JavaScript with w3schools](https://www.w3schools.com/js/default.asp)
         - [JavaScript by MDN](https://developer.mozilla.org/en-US/docs/Web/javascript)
         - [Superherojs](http://superherojs.com/)
+        - [Eloquent JavaScript](https://eloquentjavascript.net/)
+        - [JavaScript Grammar](http://javascriptgrammar.com/)
+        - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
 
          - **Angular**
             - [Angular Expo](https://angularexpo.com/)
@@ -127,6 +130,7 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
 
     - **Node.JS**
         - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/)
+        - [Node.js API Book](http://www.javascriptteacher.com/node/)
 
     - **PHP**
         - [PHP Manual](http://php.net/manual/en/index.php)
