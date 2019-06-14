@@ -130,6 +130,7 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
 
     - **Node.JS**
         - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/)
+        - [Node.js API Book](http://www.javascriptteacher.com/node/)
 
     - **PHP**
         - [PHP Manual](http://php.net/manual/en/index.php)
