@@ -124,6 +124,7 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
     - **Django - Python**
         - [Django Docs](https://docs.djangoproject.com/en/2.1/)
         - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+        - [Complete Beginners's Guide](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
 
     - **Flask - Python**
         - [The Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
