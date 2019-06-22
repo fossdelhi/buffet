@@ -48,12 +48,12 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
         - [javaTpoint](https://www.javatpoint.com/java-tutorial)
 
     - **C#**
-        - [Tutprial Point](https://www.tutorialspoint.com/csharp/)
+        - [Tutorials Point](https://www.tutorialspoint.com/csharp/)
         - [C# Tutorial](https://csharp.net-tutorials.com/getting-started/introduction/)
     
     - **R**
         - [R](https://cran.r-project.org/doc/manuals/R-intro.html)
-        - [Tutprial Point](https://www.tutorialspoint.com/r/index.htm)
+        - [Tutorials Point](https://www.tutorialspoint.com/r/index.htm)
     
     - **Swift**
         - [Swift](https://swift.org/documentation/#the-swift-programming-language)
