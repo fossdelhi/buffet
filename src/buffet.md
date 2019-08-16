@@ -256,6 +256,7 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
 - ### [Free Programming books download pdf](https://books.goalkicker.com/)
 
 - ### Competitive Programming Websites
+    - [InterviewBit](https://www.interviewbit.com/practice/)
     - [Codechef](https://www.codechef.com/)
     - [HackerRank](https://www.hackerrank.com/dashboard)
     - [HackerEarth](https://www.hackerearth.com/)
