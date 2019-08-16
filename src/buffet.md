@@ -94,6 +94,7 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
         - [Eloquent JavaScript](https://eloquentjavascript.net/)
         - [JavaScript Grammar](http://javascriptgrammar.com/)
         - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
+        - [The Modern JavaScript Tutorial](https://javascript.info/)
 
          - **Angular**
             - [Angular Expo](https://angularexpo.com/)
@@ -255,6 +256,7 @@ Your `buffet` is ready. Enjoy your delicious tech stack.
 - ### [Free Programming books download pdf](https://books.goalkicker.com/)
 
 - ### Competitive Programming Websites
+    - [InterviewBit](https://www.interviewbit.com/practice/)
     - [Codechef](https://www.codechef.com/)
     - [HackerRank](https://www.hackerrank.com/dashboard)
     - [HackerEarth](https://www.hackerearth.com/)
